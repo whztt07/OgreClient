@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Paths>
+	 <Path root="true">../../media/UI</Path>
+  <Path>../../media/UI/MyGUI_Media</Path>
+  <Path>../../media/UI/Settings</Path>
+  <Path>../../media/UI/PlayerProperty</Path>
+  <Path>../../media/UI/Icon</Path>
+  
+</Paths>
